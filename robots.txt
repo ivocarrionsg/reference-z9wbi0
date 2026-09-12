@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ivocarrionsg.github.io/reference-z9wbi0/sitemap.xml
